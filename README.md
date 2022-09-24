@@ -22,7 +22,12 @@
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </a>
-tailwind,figma
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind&logoColor=white"/>
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+</a>
 <br>
 
 <!--
