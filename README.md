@@ -1,6 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning HTML, CSS, JS.
 <br>
+<br>
 📫 How to reach me: 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -9,7 +10,9 @@
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
 <br>
- ⚡ Fun fact: I studied video editing when I was in high school. But My major is mechanical & Biomedical engineering.
+## 👩🏻‍💻Skills
+html,css,js,react,tailwind,figma
+<br>
 
 <!--
 **Doozuu/Doozuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
