@@ -2,7 +2,7 @@
 🌱 I’m currently learning HTML, CSS, JS.
 <br>
 📫 How to reach me: 
-<a href="#" target="_blank">
+<a href="https://velog.io/@049494" target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
@@ -14,12 +14,13 @@
 <br><br>
 ## 👩🏻‍💻Skills
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/>
 </a>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
 </a>
-html,css,js,react,tailwind,figma
+
+js,react,tailwind,figma
 <br>
 
 <!--
