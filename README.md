@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning HTML, CSS, JS.
 <br>
-### 📫 How to reach me: <a href="https://velog.io/@049494" target="_blank">
+📫 How to reach me: <a href="https://velog.io/@049494" target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/주희-이-700534226/" target="_blank">
