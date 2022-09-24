@@ -3,7 +3,7 @@
 <br>
 📫 How to reach me: 
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=049494@ewhain.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/주희-이-700534226/" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
