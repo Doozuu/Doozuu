@@ -1,4 +1,10 @@
 ### Hi there 👋
+🌱 I’m currently learning HTML, CSS, JS.
+📫 How to reach me: gmail, linkedin 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+ ⚡ Fun fact: I studied video editing when I was in high school. But My major is mechanical & Biomedical engineering.
 
 <!--
 **Doozuu/Doozuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
