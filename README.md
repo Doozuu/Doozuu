@@ -5,9 +5,6 @@
 <a href="https://velog.io/@049494" target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
 <a href="https://www.linkedin.com/in/주희-이-700534226/" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
@@ -19,8 +16,13 @@
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
 </a>
-
-js,react,tailwind,figma
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+</a>
+tailwind,figma
 <br>
 
 <!--
