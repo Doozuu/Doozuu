@@ -2,6 +2,9 @@
 🌱 I’m currently learning HTML, CSS, JS.
 <br>
 📫 How to reach me: 
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+</a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
