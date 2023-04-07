@@ -1,20 +1,27 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=58D3F7&height=200&section=header&text=Doozuu%20Github&fontSize=40&fontColor=FFFFFF)
 
-<h3> 🚗 Experience </h3>
 
-| PERIOD | TITLE | SUBJECT |
+
+<div align="center">
+	
+<h3> 🚗 Experience </h3>
+	
+| PERIOD | TITLE | CONTENT |
 | --- | --- | --- |
+| 2017.03 ~ 2019.12 | 고양국제고등학교 졸업 | 중국어, 스페인어 전공 |
+| 2020.03 ~ 2023 | 이화여자대학교 재학 | 휴먼기계바이오공학부 전공 |
 | 2021.03 ~ 2022.05 | 이화여대 의공학 동아리 MedExp | 회장 |
+| 2021.08 ~ 2021.11 | 디지털 헬스케어 Medical Hack 2021 | 최우수상-부산대병원장상 |
 | 2022.09 ~ 2023. | 이화여대 웹개발 스터디 CodingStage | 프론트엔드 트랙장 |
-| 2023.03 ~ 2023 | 이화여대 웹개발 동아리 EFUB | 프론트렌드 인턴 |
+| 2023.03 ~ 2023 | 이화여대 웹개발 동아리 EFUB | 프론트엔드 인턴 |
+
+</div>
 
 <br>
 
-<div>
+<div align="center">
 	<h3> 🖥 Tech Stack </h3>
-</div>
 
-<div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -28,11 +35,8 @@
 
 <br/>
 
-<div>
+<div align="center">
 	<h3>🤙 Contact </h3>
-</div>
-
-<div>
 	<a href="https://velog.io/@049494" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
