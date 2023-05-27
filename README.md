@@ -52,8 +52,8 @@
 
 <br>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doozuu&layout=compact"><br>
+<!-- <div align="center"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doozuu&layout=compact"><br> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Doozuu&show_icons=true"> -->
-</div>
+<!-- </div> -->
 
