@@ -61,6 +61,8 @@
 
 <br>
 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doozuu&show_icons=true&bg_color=00000000) -->
+
 <!-- <div align="center"> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doozuu&layout=compact"><br> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Doozuu&show_icons=true"> -->
