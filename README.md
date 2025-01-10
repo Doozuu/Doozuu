@@ -1,4 +1,4 @@
-<img width="204" alt="image" src="https://github.com/user-attachments/assets/33490129-7136-432d-886d-6c1a258d29b1" />![header](https://capsule-render.vercel.app/api?type=waving&color=58D3F7&height=200&section=header&text=Doozuu%20Github&fontSize=40&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=58D3F7&height=200&section=header&text=Doozuu%20Github&fontSize=40&fontColor=FFFFFF)
 
 
 
