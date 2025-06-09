@@ -23,7 +23,7 @@
 | 2023.12 ~ 2023.12 | 캡스톤 디자인 경진대회 창업 부문 | 우수상 - 관광지별 스냅사진작가 매칭 서비스 | 프론트엔드 |
 | 2023.12 ~ 2023.12 | 포텐데이 X 클로바 스튜디오 해커톤 | 연말 회고 서비스 | 프론트엔드 |
 | 2024.01 ~ 2024.12 | Qanda Internship | 수학 문제 검수 사이트 및 admin 페이지 개발 | 프론트엔드 |
-| 2025.01 ~ ing | Naver Cloud Internship | Video Ai 서비스 데이터 annotation tool 개발 | 프론트엔드 |
+| 2025.01 ~ ing | Naver Cloud Internship | Video Ai 서비스 데이터 annotation tool 개발 | 프론트엔드, 백엔드 |
 
 </div>
 
